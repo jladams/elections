@@ -1,0 +1,72 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.7.1
+RVersion: 3.2.4
+Repos: CRAN=https://cran.rstudio.com/
+
+Package: BH
+Source: CRAN
+Version: 1.60.0-1
+Hash: 889445e87a2acd4cc58440957f3b0d1a
+
+Package: DBI
+Source: CRAN
+Version: 0.4
+Hash: 23cc263d51b7b02ff2a305dce72651ec
+
+Package: R6
+Source: CRAN
+Version: 2.1.2
+Hash: c515e41c73294952cbb33ee1c1be5a2d
+
+Package: Rcpp
+Source: CRAN
+Version: 0.12.4
+Hash: 115167d29098a4fd1e572fdbef809438
+
+Package: assertthat
+Source: CRAN
+Version: 0.1
+Hash: 0afb92b59b02593c70ff8046700ba9d3
+
+Package: dplyr
+Source: CRAN
+Version: 0.4.3
+Hash: 35bc70760e4bbd3f4bc05fac3bbde3c3
+Requires: BH, DBI, R6, Rcpp, assertthat, lazyeval, magrittr
+
+Package: foreign
+Source: CRAN
+Version: 0.8-66
+Hash: 99a453ffeef7ff27060aed83cde5bae3
+
+Package: lazyeval
+Source: CRAN
+Version: 0.1.10
+Hash: 9679f1ac7f6bc07bc79755f34cd15e1f
+
+Package: magrittr
+Source: CRAN
+Version: 1.5
+Hash: bdc4d48c3135e8f3b399536ddf160df4
+
+Package: packrat
+Source: CRAN
+Version: 0.4.7-1
+Hash: 16ca16d36eb18d1d16113606ecc5c400
+
+Package: shapefiles
+Source: CRAN
+Version: 0.7
+Hash: 57446037bb54a510f1d51d6675eb60ef
+Requires: foreign
+
+Package: stringi
+Source: CRAN
+Version: 1.0-1
+Hash: cf342bc407bd5daec77ed1009d5244e1
+
+Package: tidyr
+Source: CRAN
+Version: 0.4.1
+Hash: f04fea3f45f0fd8246e22d3c38f0e98f
+Requires: Rcpp, dplyr, lazyeval, magrittr, stringi
