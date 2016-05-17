@@ -1,0 +1,154 @@
+"state","party","year","votes"
+"Alabama","dem",2000,695602
+"Alabama","other",2000,32540
+"Alabama","rep",2000,944409
+"Alaska","dem",2000,79004
+"Alaska","other",2000,39158
+"Alaska","rep",2000,167398
+"Arizona","dem",2000,685341
+"Arizona","other",2000,65023
+"Arizona","rep",2000,781652
+"Arkansas","dem",2000,422768
+"Arkansas","other",2000,26073
+"Arkansas","rep",2000,472940
+"California","dem",2000,5861203
+"California","other",2000,537224
+"California","rep",2000,4567429
+"Colorado","dem",2000,738227
+"Colorado","other",2000,119393
+"Colorado","rep",2000,883748
+"Connecticut","dem",2000,816015
+"Connecticut","other",2000,82416
+"Connecticut","rep",2000,561094
+"Delaware","dem",2000,180068
+"Delaware","other",2000,10173
+"Delaware","rep",2000,137288
+"District of Columbia","dem",2000,171923
+"District of Columbia","other",2000,11898
+"District of Columbia","rep",2000,18073
+"Florida","dem",2000,2912253
+"Florida","other",2000,138067
+"Florida","rep",2000,2912790
+"Georgia","dem",2000,1116230
+"Georgia","other",2000,60854
+"Georgia","rep",2000,1419720
+"Hawaii","dem",2000,410572
+"Hawaii","other",2000,49640
+"Hawaii","rep",2000,275690
+"Idaho","dem",2000,138637
+"Idaho","other",2000,26047
+"Idaho","rep",2000,336937
+"Illinois","dem",2000,2589026
+"Illinois","other",2000,133676
+"Illinois","rep",2000,2019421
+"Indiana","dem",2000,901980
+"Indiana","other",2000,51489
+"Indiana","rep",2000,1245836
+"Iowa","dem",2000,638517
+"Iowa","other",2000,42673
+"Iowa","rep",2000,634373
+"Kansas","dem",2000,399276
+"Kansas","other",2000,50608
+"Kansas","rep",2000,622332
+"Kentucky","dem",2000,638898
+"Kentucky","other",2000,32717
+"Kentucky","rep",2000,872492
+"Louisiana","dem",2000,792344
+"Louisiana","other",2000,45441
+"Louisiana","rep",2000,927871
+"Maine","dem",2000,319951
+"Maine","other",2000,45250
+"Maine","rep",2000,286616
+"Maryland","dem",2000,1145782
+"Maryland","other",2000,65901
+"Maryland","rep",2000,813797
+"Massachusetts","dem",2000,1616487
+"Massachusetts","other",2000,207995
+"Massachusetts","rep",2000,878502
+"Michigan","dem",2000,2170418
+"Michigan","other",2000,109154
+"Michigan","rep",2000,1953139
+"Minnesota","dem",2000,1168266
+"Minnesota","other",2000,160760
+"Minnesota","rep",2000,1109659
+"Mississippi","dem",2000,404964
+"Mississippi","other",2000,16732
+"Mississippi","rep",2000,573230
+"Missouri","dem",2000,1111138
+"Missouri","other",2000,58830
+"Missouri","rep",2000,1189924
+"Montana","dem",2000,137126
+"Montana","other",2000,33682
+"Montana","rep",2000,240178
+"Nebraska","dem",2000,231780
+"Nebraska","other",2000,31377
+"Nebraska","rep",2000,433862
+"Nevada","dem",2000,279978
+"Nevada","other",2000,27343
+"Nevada","rep",2000,301575
+"New York","dem",2000,4107697
+"New York","other",2000,310928
+"New York","rep",2000,2403374
+"New Hampshire","dem",2000,266348
+"New Hampshire","other",2000,29174
+"New Hampshire","rep",2000,273559
+"New Jersey","dem",2000,1788850
+"New Jersey","other",2000,114203
+"New Jersey","rep",2000,1284173
+"New Mexico","dem",2000,286783
+"New Mexico","other",2000,25405
+"New Mexico","rep",2000,286417
+"North Carolina","dem",2000,1257692
+"North Carolina","other",2000,22407
+"North Carolina","rep",2000,1631163
+"North Dakota","dem",2000,95284
+"North Dakota","other",2000,18120
+"North Dakota","rep",2000,174852
+"Ohio","dem",2000,2186190
+"Ohio","other",2000,168058
+"Ohio","rep",2000,2351119
+"Oklahoma","dem",2000,474276
+"Oklahoma","other",2000,15616
+"Oklahoma","rep",2000,744337
+"Oregon","dem",2000,720342
+"Oregon","other",2000,100049
+"Oregon","rep",2000,713577
+"Pennsylvania","dem",2000,2485967
+"Pennsylvania","other",2000,145091
+"Pennsylvania","rep",2000,2281127
+"Rhode Island","dem",2000,249508
+"Rhode Island","other",2000,29049
+"Rhode Island","rep",2000,130555
+"South Carolina","dem",2000,565561
+"South Carolina","other",2000,31219
+"South Carolina","rep",2000,785937
+"South Dakota","dem",2000,118804
+"South Dakota","other",2000,6765
+"South Dakota","rep",2000,190700
+"Tennessee","dem",2000,981720
+"Tennessee","other",2000,32512
+"Tennessee","rep",2000,1061949
+"Texas","dem",2000,2433746
+"Texas","other",2000,174252
+"Texas","rep",2000,3799639
+"Utah","dem",2000,203053
+"Utah","other",2000,52605
+"Utah","rep",2000,515096
+"Vermont","dem",2000,149022
+"Vermont","other",2000,25511
+"Vermont","rep",2000,119775
+"Virginia","dem",2000,1217290
+"Virginia","other",2000,84667
+"Virginia","rep",2000,1437490
+"Washington","dem",2000,1247652
+"Washington","other",2000,130917
+"Washington","rep",2000,1108864
+"West Virginia","dem",2000,295497
+"West Virginia","other",2000,16152
+"West Virginia","rep",2000,336475
+"Wisconsin","dem",2000,1242987
+"Wisconsin","other",2000,118341
+"Wisconsin","rep",2000,1237279
+"Wyoming","dem",2000,60481
+"Wyoming","other",2000,9923
+"Wyoming","rep",2000,147947

@@ -3,6 +3,29 @@ library(dplyr)
 library(tidyr)
 library(lazyeval)
 
+# Donwloaded from http://www.american.edu/spa/ccps/Data-Sets.cfm
+results00 <- read.csv("./data/raw/2000.csv")
+# Downloaded from https://catalog.data.gov/dataset/2004-presidential-general-election-county-results-direct-download
+df04 <- getResults(2004, "VOTE_DEM", "VOTE_REP", "VOTE_OTH")
+# Downloaded from https://catalog.data.gov/dataset/2008-presidential-general-election-county-results-direct-download
+df08 <- getResults(2008, "VOTE_DEM", "VOTE_REP", "VOTE_OTH")
+# Downloaded from https://catalog.data.gov/dataset/presidential-general-election-results-2012-direct-download
+df12 <- getResults(2012, "OBAMA", "ROMNEY", "OTHERS")
+
+results00$YEAR <- 2000
+counties00 <- results00 %>%
+  group_by(state=STATE, county=COUNTY, year=YEAR) %>%
+  summarize(dem=sum(GORE), rep=sum(BUSH), other=sum(OTHER)) %>%
+  gather(party,votes, dem:other)
+
+states00 <- counties00 %>%
+  group_by(state,party,year) %>%
+  summarize(votes=sum(votes))
+
+total00 <- states00 %>%
+  group_by(party, year) %>%
+  summarize(votes=sum(votes))
+
 getResults <- function(yr, dem_col, rep_col, oth_col) {
   resultsYear <- read.dbf(paste("./data/dbf/", yr, ".dbf", sep=""))
   resultsYear <- resultsYear$dbf
@@ -35,14 +58,7 @@ getResults <- function(yr, dem_col, rep_col, oth_col) {
 
 }
 
-# Downloaded from https://catalog.data.gov/dataset/2004-presidential-general-election-county-results-direct-download
-df04 <- getResults(2004, "VOTE_DEM", "VOTE_REP", "VOTE_OTH")
-# Downloaded from https://catalog.data.gov/dataset/2008-presidential-general-election-county-results-direct-download
-df08 <- getResults(2008, "VOTE_DEM", "VOTE_REP", "VOTE_OTH")
-# Downloaded from https://catalog.data.gov/dataset/presidential-general-election-results-2012-direct-download
-df12 <- getResults(2012, "OBAMA", "ROMNEY", "OTHERS")
-
-countiesAll <- rbind(df04, df08, df12)
+countiesAll <- rbind(counties00, df04, df08, df12)
 
 statesAll <- countiesAll %>%
   group_by(state, party, year) %>%
@@ -51,6 +67,10 @@ statesAll <- countiesAll %>%
 totalAll <- statesAll %>%
   group_by(party, year) %>%
   summarize(votes=sum(votes))
+
+write.csv(counties00, "./data/csv/counties2000.csv", row.names = FALSE)
+write.csv(states00, "./data/csv/states2000.csv", row.names=FALSE)
+write.csv(total00, "./data/csv/total2000.csv", row.names = FALSE)
 
 write.csv(countiesAll, "./data/csv/countiesAll.csv", row.names = FALSE)
 write.csv(statesAll, "./data/csv/statesAll.csv", row.names=FALSE)
