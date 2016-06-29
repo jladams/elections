@@ -1,6 +1,6 @@
 PackratFormat: 1.4
 PackratVersion: 0.4.7.1
-RVersion: 3.2.4
+RVersion: 3.3.0
 Repos: CRAN=https://cran.rstudio.com/
 
 Package: BH
@@ -59,12 +59,6 @@ Source: CRAN
 Version: 0.8-66
 Hash: 99a453ffeef7ff27060aed83cde5bae3
 
-Package: ggplot2
-Source: CRAN
-Version: 2.1.0
-Hash: 50e297b0191179c39c7dcae0eff72b51
-Requires: digest, gtable, plyr, reshape2, scales
-
 Package: gtable
 Source: CRAN
 Version: 0.2.0
@@ -85,34 +79,10 @@ Source: CRAN
 Version: 1.5
 Hash: bdc4d48c3135e8f3b399536ddf160df4
 
-Package: munsell
-Source: CRAN
-Version: 0.4.3
-Hash: f96d896947fcaf9b6d0074002e9f4f9d
-Requires: colorspace
-
 Package: packrat
 Source: CRAN
 Version: 0.4.7-1
 Hash: 16ca16d36eb18d1d16113606ecc5c400
-
-Package: plyr
-Source: CRAN
-Version: 1.8.3
-Hash: 2df5437483a9a53a2deb2afb73258847
-Requires: Rcpp
-
-Package: reshape2
-Source: CRAN
-Version: 1.4.1
-Hash: bda269da8b147b0beea2c0e16bdce20d
-Requires: Rcpp, plyr, stringr
-
-Package: scales
-Source: CRAN
-Version: 0.4.0
-Hash: 53844c573fd30a70f592fa45ec1e33a1
-Requires: RColorBrewer, Rcpp, dichromat, labeling, munsell, plyr
 
 Package: shapefiles
 Source: CRAN
@@ -125,14 +95,14 @@ Source: CRAN
 Version: 1.0-1
 Hash: cf342bc407bd5daec77ed1009d5244e1
 
-Package: stringr
+Package: tibble
 Source: CRAN
-Version: 1.0.0
-Hash: 2676dd5f88890910962b733b0f9540e1
-Requires: magrittr, stringi
+Version: 1.0
+Hash: cad79517a514c38c53e840d15dee706e
+Requires: Rcpp, assertthat, lazyeval
 
 Package: tidyr
 Source: CRAN
 Version: 0.4.1
 Hash: f04fea3f45f0fd8246e22d3c38f0e98f
-Requires: Rcpp, dplyr, lazyeval, magrittr, stringi
+Requires: Rcpp, lazyeval, magrittr, stringi, dplyr, tibble
