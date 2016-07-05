@@ -64,6 +64,9 @@ counties00 <- results00 %>%
   summarize(dem=sum(GORE), rep=sum(BUSH), other=sum(OTHER)) %>%
   gather(party,votes, dem:other)
 
+counties00$state <- state.abb[match(counties00$state, state.name)]
+counties00["state"][is.na(counties00["state"])] <- "DC"
+
 states00 <- counties00 %>%
   group_by(state,party,year) %>%
   summarize(votes=sum(votes))
