@@ -1,206 +1,206 @@
 # 2016 General Elections Source Links
 These are links to the various official outlets for each state that are reporting on the November 8, 2016 general election. Where possible, they are links directly to the results pages. In some cases where the results are not as easily discoverable, they link only to the Secretaries of State, Election Commissions, etc. whose responsibility it is to collect and report this data. If you can find a more appropriate link, let me know!
 
-# Alabama
+## Alabama
 
 [http://www.alabamavotes.gov/](http://www.alabamavotes.gov/)
 
-# Alaska
+## Alaska
 
 [http://elections.alaska.gov/vi_vrs-er.php](http://elections.alaska.gov/vi_vrs-er.php)
 
-# Arizona
+## Arizona
 
 [http://results.arizona.vote/2016/General/n1591/Results-State.html](http://results.arizona.vote/2016/General/n1591/Results-State.html)
 
-# Arkansas
+## Arkansas
 
 [http://results.enr.clarityelections.com/AR/63912/179690/Web01/en/summary.html](http://results.enr.clarityelections.com/AR/63912/179690/Web01/en/summary.html)
 
-# California
+## California
 
 [http://www.sos.ca.gov/elections/upcoming-elections/general-election-november-8-2016/](http://www.sos.ca.gov/elections/upcoming-elections/general-election-november-8-2016/)
 
-# Colorado
+## Colorado
 
 [http://results.enr.clarityelections.com/CO/63746/179720/Web01/en/summary.html](http://results.enr.clarityelections.com/CO/63746/179720/Web01/en/summary.html)
 
-# Connecticut
+## Connecticut
 
-[http://ctemspublic.pcctg.net/#/home](http://ctemspublic.pcctg.net/#/home)
+[http://ctemspublic.pcctg.net/##/home](http://ctemspublic.pcctg.net/##/home)
 
-# Delaware
+## Delaware
 
 [http://elections.delaware.gov/results/html/unofresl.shtml](http://elections.delaware.gov/results/html/unofresl.shtml)
 
-# Florida
+## Florida
 
 [http://enight.elections.myflorida.com/](http://enight.elections.myflorida.com/)
 
-# Georgia
+## Georgia
 
 [http://sos.ga.gov/index.php/general/2016_election_night_reporting_information](http://sos.ga.gov/index.php/general/2016_election_night_reporting_information)
 
-# Hawaii
+## Hawaii
 
 [http://elections.hawaii.gov/election-results/](http://elections.hawaii.gov/election-results/)
 
-# Idaho
+## Idaho
 
 [http://www.sos.idaho.gov/ELECT/results/2016/General/ENR/](http://www.sos.idaho.gov/ELECT/results/2016/General/ENR/)
 
-# Illinois
+## Illinois
 
 [http://www.elections.il.gov/ElectionInformation/DownloadVoteTotals.aspx](http://www.elections.il.gov/ElectionInformation/DownloadVoteTotals.aspx)
 
-# Indiana
+## Indiana
 
 [http://www.in.gov/apps/sos/election/general/general2016](http://www.in.gov/apps/sos/election/general/general2016)
 
-# Iowa
+## Iowa
 
 [https://sos.iowa.gov/elections/results/index.html](https://sos.iowa.gov/elections/results/index.html)
 
-# Kansas
+## Kansas
 
 [http://www.kssos.org/elections/elections_statistics.html](http://www.kssos.org/elections/elections_statistics.html)
 
-# Kentucky
+## Kentucky
 
 [http://elect.ky.gov/results/Pages/default.aspx](http://elect.ky.gov/results/Pages/default.aspx)
 
-# Louisiana
+## Louisiana
 
 [https://voterportal.sos.la.gov/Graphical](https://voterportal.sos.la.gov/Graphical)
 
-# Maine
+## Maine
 
 [http://maine.gov/sos/cec/elec/results/index.html](http://maine.gov/sos/cec/elec/results/index.html)
 
-# Maryland
+## Maryland
 
 [http://www.elections.state.md.us/elections/2016/index.html](http://www.elections.state.md.us/elections/2016/index.html)
 
-# Massachusetts
+## Massachusetts
 
 [http://electionstats.state.ma.us/](http://electionstats.state.ma.us/)
 
-# Michigan
+## Michigan
 
 [http://www.michigan.gov/sos/0,4670,7-127-1633_48760---,00.html](http://www.michigan.gov/sos/0,4670,7-127-1633_48760---,00.html)
 
-# Minnesota
+## Minnesota
 
 [http://www.sos.state.mn.us/elections-voting/election-results/](http://www.sos.state.mn.us/elections-voting/election-results/)
 
-# Mississippi
+## Mississippi
 
 [http://www.sos.ms.gov/Elections-Voting/Pages/Election-Results-By-Year.aspx](http://www.sos.ms.gov/Elections-Voting/Pages/Election-Results-By-Year.aspx)
 
-# Missouri
+## Missouri
 
 [http://enr.sos.mo.gov/enrnet/default.aspx?eid=750003949](http://enr.sos.mo.gov/enrnet/default.aspx?eid=750003949)
 
-# Montana
+## Montana
 
 [http://sos.mt.gov/Elections/Results/index.asp](http://sos.mt.gov/Elections/Results/index.asp)
 
-# Nebraska
+## Nebraska
 
 [http://www.sos.ne.gov/elec/2016/elections.html](http://www.sos.ne.gov/elec/2016/elections.html)
 
-# Nevada
+## Nevada
 
 [http://nvsos.gov/electionresults/](http://nvsos.gov/electionresults/)
 
-# New Hampshire
+## New Hampshire
 
 [http://sos.nh.gov/ElectResults.aspx](http://sos.nh.gov/ElectResults.aspx)
 
-# New Jersey
+## New Jersey
 
 [http://www.nj.gov/state/elections/index.html](http://www.nj.gov/state/elections/index.html)
 
-# New Mexico
+## New Mexico
 
 [http://electionresults.sos.state.nm.us/](http://electionresults.sos.state.nm.us/)
 
-# New York
+## New York
 
 [http://nyenr.elections.state.ny.us/](http://nyenr.elections.state.ny.us/)
 
-# North Carolina
+## North Carolina
 
 [http://er.ncsbe.gov/?election_dt=11/08/2016&county_id=0&office=FED&contest=0](http://er.ncsbe.gov/?election_dt=11/08/2016&county_id=0&office=FED&contest=0)
 
-# North Dakota
+## North Dakota
 
 [http://results.sos.nd.gov/default.aspx](http://results.sos.nd.gov/default.aspx)
 
-# Ohio
+## Ohio
 
 [http://www.sos.state.oh.us/SOS/elections/Research/electResultsMain.aspx](http://www.sos.state.oh.us/SOS/elections/Research/electResultsMain.aspx)
 
-# Oklahoma
+## Oklahoma
 
 [https://ok.gov/elections/Election_Info/2016_November_General_Election.html](https://ok.gov/elections/Election_Info/2016_November_General_Election.html)
 
-# Oregon
+## Oregon
 
 [http://sos.oregon.gov/elections/Pages/electionhistory.aspx](http://sos.oregon.gov/elections/Pages/electionhistory.aspx)
 
-# Pennsylvania
+## Pennsylvania
 
 [http://www.electionreturns.state.pa.us/](http://www.electionreturns.state.pa.us/)
 
-# Rhode Island
+## Rhode Island
 
 [http://www.ri.gov/election/results/2016/general_election/](http://www.ri.gov/election/results/2016/general_election/)
 
-# South Carolina
+## South Carolina
 
 [http://www.enr-scvotes.org/SC/64658/179733/en/summary.html](http://www.enr-scvotes.org/SC/64658/179733/en/summary.html)
 
-# South Dakota
+## South Dakota
 
 [http://electionresults.sd.gov/](http://electionresults.sd.gov/)
 
-# Tennessee
+## Tennessee
 
 [http://sos.tn.gov/products/elections/election-results](http://sos.tn.gov/products/elections/election-results)
 
-# Texas
+## Texas
 
 [https://enrpages.sos.state.tx.us/public/nov08_319.htm](https://enrpages.sos.state.tx.us/public/nov08_319.htm)
 
-# Utah
+## Utah
 
 [http://electionresults.utah.gov/elections/federal](http://electionresults.utah.gov/elections/federal)
 
-# Vermont
+## Vermont
 
-[https://vtelectionresults.sec.state.vt.us/Index.html#/state](https://vtelectionresults.sec.state.vt.us/Index.html#/state)
+[https://vtelectionresults.sec.state.vt.us/Index.html##/state](https://vtelectionresults.sec.state.vt.us/Index.html##/state)
 
-# Virginia
+## Virginia
 
 [http://results.elections.virginia.gov/vaelections/2016%20November%20General/Site/Presidential.html](http://results.elections.virginia.gov/vaelections/2016%20November%20General/Site/Presidential.html)
 
-# Washington
+## Washington
 
 [http://results.vote.wa.gov/results/20161108/Federal-All.html](http://results.vote.wa.gov/results/20161108/Federal-All.html)
 
-# West Virginia
+## West Virginia
 
-[https://apps.sos.wv.gov/elections/results/#](https://apps.sos.wv.gov/elections/results/#)
+[https://apps.sos.wv.gov/elections/results/##](https://apps.sos.wv.gov/elections/results/##)
 
-# Wisconsin
+## Wisconsin
 
 [http://elections.wi.gov/elections-voting/results](http://elections.wi.gov/elections-voting/results)
 
-# Wyoming
+## Wyoming
 
 [http://soswy.state.wy.us/Elections/Docs/2016/2016GeneralResults.aspx](http://soswy.state.wy.us/Elections/Docs/2016/2016GeneralResults.aspx)
 
-# Washington DC
+## Washington DC
 
 [https://www.dcboee.org/election_info/election_results/index.asp](https://www.dcboee.org/election_info/election_results/index.asp)
