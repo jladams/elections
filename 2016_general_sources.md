@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # 2016 General Elections Source Links
 These are links to the various official outlets for each state that are reporting on the November 8, 2016 general election. Where possible, they are links directly to the results pages. In some cases where the results are not as easily discoverable, they link only to the Secretaries of State, Election Commissions, etc. whose responsibility it is to collect and report this data. If you can find a more appropriate link, let me know!
 
