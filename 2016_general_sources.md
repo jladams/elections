@@ -120,7 +120,7 @@ These are links to the various official outlets for each state that are reportin
 
 ## New Hampshire
 
-[http://sos.nh.gov/ElectResults.aspx](http://sos.nh.gov/ElectResults.aspx)
+[http://sos.nh.gov/2016GenResults.aspx](http://sos.nh.gov/2016GenResults.aspx)
 
 ## New Jersey
 
